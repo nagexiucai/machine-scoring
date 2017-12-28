@@ -1,8 +1,11 @@
 # PyCharm project configuration files
 .idea
 
-#MNIST data files
+# MNIST data files
 MNIST-data
+
+# dingtalk-contacts-pickup
+samples/tmp.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
