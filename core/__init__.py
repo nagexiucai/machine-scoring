@@ -10,3 +10,5 @@ from pprint import pprint
 # hi = tf.constant('Hi,TF!')
 # session = tf.Session()
 # print(session.run(hi))
+
+help(tf.summary.FileWriter)
